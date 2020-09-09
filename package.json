@@ -1,0 +1,14 @@
+{
+  "name": "simon_says",
+  "version": "0.1.0",
+  "description": "A Simon Says game",
+  "dependencies": {
+    "eslint": "^7.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Arboleda Londoño",
+  "license": "MIT"
+}
